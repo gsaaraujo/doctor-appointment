@@ -6,6 +6,7 @@ A ideia desse repositório é mostrar como a aplicação está sendo feita e qua
 Microserviços disponíveis no momento
 * [rauru](https://github.com/gsaaraujo/rauru) 
 * [saria](https://github.com/gsaaraujo/saria) 
+* [darunia](https://github.com/gsaaraujo/darunia) 
 
 ### Conceitos e como estão sendo utilizados
 #### Domain Driven Design
