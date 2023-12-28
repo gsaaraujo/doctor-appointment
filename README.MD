@@ -20,3 +20,4 @@ Microserviços
 - [ ] Adapter Pattern
 - [ ] Repository Pattern
 - [ ] Gateway Pattern
+- [ ] Unit & Integration tests
