@@ -10,14 +10,13 @@ Microserviços
 ![events](./consumed-events.png)
 
 ### Conceitos utilizados
-- [ ] Domain Driven Design
+- [ ] Domain Driven Design (Domain entities, Value objects e Repository Pattern)
 - [ ] Hexagonal Architecture
-- [ ] Event Driven Architecture
-- [ ] Event Notification
-- [ ] CQRS
-- [ ] Queue
+- [ ] Event Driven Architecture (Event Notification e CQRS)
+- [ ] Dependency Inversion e Dependency Injection
+- [ ] Event Queue
 - [ ] Static Factory Method Pattern
 - [ ] Adapter Pattern
-- [ ] Repository Pattern
 - [ ] Gateway Pattern
-- [ ] Unit & Integration tests
+- [ ] Unit tests
+- [ ] Integration tests
